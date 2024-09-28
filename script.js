@@ -2,7 +2,7 @@ const form = document.getElementById('contact-form');
 const responseMessage = document.getElementById('response-message');
 
 form.addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the default form submission
+    event.preventDefault();
 
     const formData = new FormData(form);
     

@@ -105,7 +105,7 @@ nav ul li a:hover {
     left: 0;
     width: 30%; 
     height: 30%;
-    background: url('images/astronaut.png') center center no-repeat; /* Ensure separate images if needed */
+    background: url('images/astronaut.png') center center no-repeat; 
     background-size: contain;
     animation: moveAndRotate 10s linear infinite;
 }
@@ -169,7 +169,7 @@ button:hover {
     }
 
     .astronaut, .spaceship {
-        width: 40vw; /* Larger image for smaller screens */
+        width: 40vw; 
         height: 40vw;
     }
 
