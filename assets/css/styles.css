@@ -17,7 +17,7 @@
          -> Choose any color 
          -> Copy the color mode (HSL)
   */
-  --hue:195;
+  --hue:4700;
   --first-color: hsl(var(--hue), 80%, 49%);
   --first-color-alt: hsl(var(--hue), 76%, 45%);
   --white-color: hsl(0, 0%, 1%);
@@ -311,7 +311,7 @@ color: var(--white-color);
 }
 .about__image{
   background: var(--conic-gradient);
-  height: 180px;
+  height: 120px;
   border-radius: 2rem;
   display: grid;
   overflow: hidden;
