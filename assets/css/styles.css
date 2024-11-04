@@ -757,7 +757,7 @@ transition: bottom  0.4s,transform 0.4s;}
     padding: 2rem;
   }
   .perfil__img{
-    height:100%;
+    width: 100%;
     width:  auto;
    
   }
