@@ -321,7 +321,7 @@ height: 100%;
 justify-self: center;
 transform: translateY(-2.5rem);}
 .about__note{
-  font-size: var(--normal-font-size);
+  font-size: var(--small-font-size);
   margin-block:1rem 2rem;
 }
 .about .button{
