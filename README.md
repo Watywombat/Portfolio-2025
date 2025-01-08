@@ -26,4 +26,4 @@ Welcome to my personal portfolio! 🌟 This is a showcase of my skills, projects
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone git@github.com:Watywombat/Portfolio-2025.git
